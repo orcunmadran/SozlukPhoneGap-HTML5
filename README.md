@@ -1,1 +1,2 @@
-# net.madran.bby261.ornek01
+# MobilUygulama01
+Mobil Programlama Dersi için oluşturulan örnek uygulamanın yer aldığı kod deposu
